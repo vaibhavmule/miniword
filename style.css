@@ -1,0 +1,32 @@
+/*
+Theme Name: miniword
+Theme URI: http://miniword.com;
+Description: yet another minimal, lightweight and responsive theme.
+Author: Vaibhav Mule
+Author URI: http://vaibhavmule.com/
+Version: 1.0
+Tags: minimal, white, minimalistic
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+*/
+body {
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #444;
+    padding: 0 10px
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.2
+}
+
+img {
+	width: 100%;
+	
+}
